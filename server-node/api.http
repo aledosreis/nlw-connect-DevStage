@@ -28,3 +28,7 @@ GET http://localhost:3333/subscribers/teste123/ranking/clicks
 ###
 
 GET http://localhost:3333/subscribers/teste123/ranking/count
+
+###
+
+GET http://localhost:3333/subscribers/teste123/ranking/position
