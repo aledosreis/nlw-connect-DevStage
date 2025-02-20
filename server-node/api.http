@@ -24,3 +24,7 @@ GET http://localhost:3333/invites/teste123
 ###
 
 GET http://localhost:3333/subscribers/teste123/ranking/clicks
+
+###
+
+GET http://localhost:3333/subscribers/teste123/ranking/count
