@@ -13,25 +13,25 @@ Content-Type: application/json
 
 {
   "name": "Diego Fernandes",
-  "email": "diego@rocketseat.com.br",
-  "referrer": "teste123"
+  "email": "diego2@rocketseat.com.br",
+  "referrer": "13fe7fd3-f65e-4c7d-bfc8-870a528af520"
 }
 
 ###
 
-GET http://localhost:3333/invites/teste123
+GET http://localhost:3333/invites/13fe7fd3-f65e-4c7d-bfc8-870a528af520
 
 ###
 
-GET http://localhost:3333/subscribers/teste123/ranking/clicks
+GET http://localhost:3333/subscribers/13fe7fd3-f65e-4c7d-bfc8-870a528af520/ranking/clicks
 
 ###
 
-GET http://localhost:3333/subscribers/teste123/ranking/count
+GET http://localhost:3333/subscribers/13fe7fd3-f65e-4c7d-bfc8-870a528af520/ranking/count
 
 ###
 
-GET http://localhost:3333/subscribers/teste123/ranking/position
+GET http://localhost:3333/subscribers/13fe7fd3-f65e-4c7d-bfc8-870a528af520/ranking/position
 
 ###
 
